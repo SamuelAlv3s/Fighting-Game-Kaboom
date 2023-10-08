@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-2. This will launch the game in your default web browser. You can now enjoy playing Tic-Tac-Toe Kaboom!
+2. This will launch the game in your default web browser. You can now enjoy playing Fighting Game!
 
 ## Contributing
 
@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](MIT_LICENSE.txt).
 
 ---
 
-Feel free to customize this README.md according to your project's specifics. Good luck and have fun building and playing Tic-Tac-Toe Kaboom! 🎮✨
+Feel free to customize this README.md according to your project's specifics. Good luck and have fun building and playing Fighting Game! 🎮✨
