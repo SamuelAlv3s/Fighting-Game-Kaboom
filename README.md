@@ -5,8 +5,7 @@
   <img src="./public/screenshot_2.png" width="250" alt="screen 2" />
 </p>
 
-## Technologies Used
-
+## Technologies
 - [Kaboom.js](https://kaboomjs.com/)
 - [Vite](https://vitejs.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
